@@ -1,5 +1,5 @@
 ##  Suave! Bienevenido a StivenRMS
-- 🔭 Estoy trabando en front-end
+- 🔭 Estoy en Busca de ganar experencia
 - 🌱 Estudiando Java, C#, React, JS
 - 😄 Pronombres: EL
 
