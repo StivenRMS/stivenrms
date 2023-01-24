@@ -1,4 +1,4 @@
-##  Suave! Binevenido a StivenRMS
+##  Suave! Bienvenido a StivenRMS
 - 🔭 Estoy en Busca de ganar experencia
 - 🌱 Estudiando Java, C#, React, JS
 - 😄 Pronombres: EL
